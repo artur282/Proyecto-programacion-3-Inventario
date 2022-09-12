@@ -1,0 +1,10 @@
+base de datos en la carpeta DB
+
+crear base de datos en phpmyadmin con el nombre "dbsistema" e importar la base de datos
+
+Usuario por defecto: Administrador
+    Clave: Administrador
+
+
+
+Luis cruz c.i 29.526.596
